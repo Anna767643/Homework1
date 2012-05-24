@@ -68,6 +68,8 @@ _ReSharper.*
 
 # vim
 *.txt~
+*.swp
+*.swo
 
 # My specific Visual Studio
 *.vsp
