@@ -71,6 +71,9 @@ _ReSharper.*
 *.swp
 *.swo
 
+# svn
+.svn
+
 # My specific Visual Studio
 *.vsp
 *.psess
