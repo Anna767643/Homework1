@@ -183,6 +183,9 @@ $RECYCLE.BIN/
 # Visual Studio 2014 CTP
 **/*.sln.ide
 
+# Visual Studio temp something
+.vs/
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
