@@ -146,6 +146,9 @@ UpgradeLog*.htm
 # svn
 .svn
 
+# Remainings from resolvings conflicts in Source Control
+*.orig
+
 # SQL Server files
 **/App_Data/*.mdf
 **/App_Data/*.ldf
