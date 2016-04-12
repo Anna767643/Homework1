@@ -54,9 +54,7 @@ build/
 
 # OS generated files #
 .DS_Store*
-ehthumbs.db
 Icon?
-Thumbs.db
 
 # Visual C++ cache files
 ipch/
