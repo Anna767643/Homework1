@@ -188,6 +188,10 @@ $RECYCLE.BIN/
 # Visual Studio temp something
 .vs/
 
+# VS 2015+
+*.vc.vc.opendb
+*.vc.db
+
 **/node_modules/*
 
 #####
