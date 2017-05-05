@@ -192,6 +192,9 @@ $RECYCLE.BIN/
 *.vc.vc.opendb
 *.vc.db
 
+# Rider
+.idea/
+
 **/node_modules/*
 
 #####
