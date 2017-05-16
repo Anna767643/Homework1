@@ -195,7 +195,9 @@ $RECYCLE.BIN/
 # Rider
 .idea/
 
+# Output folder used by Webpack or other FE stuff
 **/node_modules/*
+**/wwwroot/*
 
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
