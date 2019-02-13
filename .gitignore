@@ -151,7 +151,7 @@ UpgradeLog*.htm
 # CVS - Source Control
 **/CVS/
 
-# Remainings from resolvings conflicts in Source Control
+# Remainings from resolving conflicts in Source Control
 *.orig
 
 # SQL Server files
