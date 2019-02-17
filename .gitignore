@@ -144,6 +144,9 @@ UpgradeLog*.htm
 *.txt~
 *.swp
 *.swo
+
+# Temp files when opening LibreOffice on ubuntu
+.~lock.*
  
 # svn
 .svn
